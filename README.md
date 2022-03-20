@@ -1,4 +1,4 @@
-<img src="https://badge42.herokuapp.com/api/stats/namina?privacyEmail=true"/>
+<!-- <img src="https://badge42.herokuapp.com/api/stats/namina?privacyEmail=true"/>
 
 
 |  |  Projects scores:|  |
@@ -17,3 +17,4 @@
 
 
 </p>
+ -->
