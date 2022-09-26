@@ -1,4 +1,4 @@
-Hello! My name is Aleksandr. Since april 2021 i'm studying at Ecole 42 in Moscow.
+Hello! My name is Aleksandr. Since april 2021 i'm studying at 21 school (Ecole 42) in Moscow.
 
 I have some experience with: 
   - C/C++
